@@ -28,7 +28,7 @@
 
 - (IBAction)ClickHere:(id)sender
 {
-    self.displayText.text = @"Chaithra TV  ";
+    self.displayText.text = @"Master  ";
 
 }
 
