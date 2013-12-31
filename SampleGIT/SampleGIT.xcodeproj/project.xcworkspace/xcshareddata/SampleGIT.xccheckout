@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>702D91A1-0307-4086-8D87-4582DE78A996</string>
+	<string>8E9345FE-80D3-45E5-B32E-75BAB5997B1A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SampleGIT</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>4D71579C-FE6F-4C74-AE69-C7C813AE519F</key>
-		<string>https://github.com/chaithraVeeresh/Spoon-Knife.git</string>
+		<key>63A30D60-4E42-4C78-969D-D7A8BF0F3CA3</key>
+		<string>https://github.com/TestMember/TeamMember.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SampleGIT/SampleGIT.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>4D71579C-FE6F-4C74-AE69-C7C813AE519F</key>
+		<key>63A30D60-4E42-4C78-969D-D7A8BF0F3CA3</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/chaithraVeeresh/Spoon-Knife.git</string>
+	<string>https://github.com/TestMember/TeamMember.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>4D71579C-FE6F-4C74-AE69-C7C813AE519F</string>
+	<string>63A30D60-4E42-4C78-969D-D7A8BF0F3CA3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>4D71579C-FE6F-4C74-AE69-C7C813AE519F</string>
+			<string>63A30D60-4E42-4C78-969D-D7A8BF0F3CA3</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Spoon-Knife</string>
+			<string>TeamMember</string>
 		</dict>
 	</array>
 </dict>

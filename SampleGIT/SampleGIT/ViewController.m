@@ -28,6 +28,8 @@
 
 - (IBAction)ClickHere:(id)sender
 {
-    self.displayText.text = @"Button clicked!!";
+    self.displayText.text = @"Enter your name";
+
 }
+
 @end
