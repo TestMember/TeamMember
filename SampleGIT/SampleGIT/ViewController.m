@@ -28,7 +28,7 @@
 
 - (IBAction)ClickHere:(id)sender
 {
-    self.displayText.text = @"NewBranch";
+    self.displayText.text = @"NewBranch  ";
 
 }
 
