@@ -28,7 +28,7 @@
 
 - (IBAction)ClickHere:(id)sender
 {
-    self.displayText.text = @"the new name is added";
+    self.displayText.text = @"chaithra TV";
 
 }
 
