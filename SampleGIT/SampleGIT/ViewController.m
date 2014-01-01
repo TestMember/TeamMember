@@ -25,9 +25,12 @@
 - (IBAction)ClickHere:(id)sender
 {
 
-        self.displayText.text = @"NewBranch";
 
-    self.displayText.textColor = [UIColor grayColor];
-}
+    self.displayText.textColor=[UIColor redColor];
+    self.displayText.text=@"Hello";
+
+
+
+    }
 
 @end
