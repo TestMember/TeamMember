@@ -25,12 +25,10 @@
 - (IBAction)ClickHere:(id)sender
 {
 
-<<<<<<< HEAD
-    self.displayText.textColor=[UIColor redColor];
-=======
-    self.displayText.text = @"NewBranch";
 
->>>>>>> newBranch
+
+    self.displayText.text = @"Master";
+
 
 }
 
