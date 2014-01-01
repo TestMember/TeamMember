@@ -25,7 +25,7 @@
 - (IBAction)ClickHere:(id)sender
 {
 
-    self.displayText.text = @"Master";
+    self.displayText.text = @"Master controller";
 }
 
 @end
