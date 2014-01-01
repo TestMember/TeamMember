@@ -29,7 +29,7 @@
     
 
 
-    self.displayText.text = @"Master";
+    self.displayText.text = @"Master controller";
 
 }
 
