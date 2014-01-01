@@ -28,13 +28,11 @@
 
 - (IBAction)ClickHere:(id)sender
 {
-<<<<<<< HEAD
+
     self.displayText.text = @"NewBranch";
     self.displayText.textColor=[UIColor grayColor];
 
-=======
-    self.displayText.text = @"Master  ";
->>>>>>> f81c196971d002e3cc2caaeaca2de72c46068e78
+
 
 }
 
