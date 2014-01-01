@@ -25,18 +25,7 @@
 - (IBAction)ClickHere:(id)sender
 {
 
-<<<<<<< HEAD
-    self.displayText.textColor=[UIColor redColor];
-    self.displayText.text= @"chaithra";
-    
-=======
-
-    
-
-
     self.displayText.text = @"Master";
->>>>>>> c787ad318f67a7755baa1ae571971ca6d1d60932
-
 }
 
 @end
