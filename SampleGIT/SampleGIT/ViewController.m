@@ -28,7 +28,9 @@
 
 - (IBAction)ClickHere:(id)sender
 {
-    self.displayText.text = @"Chaithra TV  ";
+    self.displayText.text = @"NewBranch";
+    self.displayText.textColor=[UIColor grayColor];
+
 
 }
 
