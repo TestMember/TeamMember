@@ -24,8 +24,8 @@
 
 - (IBAction)ClickHere:(id)sender
 {
+    self.displayText.text = @"vgfvhgbjnh";
 
-    self.displayText.text = @"Master controllehkhcik";
 }
 
 @end
