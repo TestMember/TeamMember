@@ -26,7 +26,7 @@
 {
 
     self.displayText.textColor=[UIColor redColor];
-    self.displayText.text=@"Hello";
+    self.displayText.text=@"Master";
 
 }
 
