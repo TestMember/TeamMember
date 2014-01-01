@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	self.navigationController.title = @"Git sample";
 }
 
 
@@ -27,6 +27,7 @@
 
     self.displayText.textColor=[UIColor redColor];
     self.displayText.text= @"chaithra";
+    
 
 }
 
