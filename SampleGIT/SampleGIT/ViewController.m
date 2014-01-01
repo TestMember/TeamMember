@@ -20,15 +20,13 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
+
 
 - (IBAction)ClickHere:(id)sender
 {
-    self.displayText.text = @"NewBranch  ";
+
+    self.displayText.textColor=[UIColor redColor];
+    self.displayText.text=@"Hello vidya";
 
 }
 
