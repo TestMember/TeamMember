@@ -26,7 +26,6 @@
 {
 
     self.displayText.textColor=[UIColor redColor];
-    self.displayText.text= @"chaithra";
 
 }
 
